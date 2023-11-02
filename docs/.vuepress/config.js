@@ -1,7 +1,7 @@
 module.exports = {
     title: 'JobRecruitment说明文档',
     description: 'JobRecruitment说明文档',
-    base: '/JobRecruitmentDocumentation/',
+    base: '/NIS3368_JobRecruitment/',
     lang:'zh-CN',
     themeConfig:{
         repo: 'glimmeringlight/NIS3368_JobRecruitment',
@@ -13,7 +13,7 @@ module.exports = {
         nav: [
             {text: '主页', link: '/'},
             {text: '使用项目', link: '/run/'},
-            {text: '本地开发', link: '/develop/'},
+            // {text: '本地开发', link: '/develop/'},
             {text: '关于我们', link:'/about/'}
         ],
 
