@@ -8,3 +8,7 @@
 - [陈洋](https://github.com/cyny666)
 
 文档中，JobRecruitment Develop Team即代指开发团队。
+
+## 项目地址
+
+本项目完全开源在[Github](https://github.com/glimmeringlight/NIS3368_JobRecruitment)上。

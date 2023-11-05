@@ -4,6 +4,7 @@ module.exports = {
     base: '/NIS3368_JobRecruitment/',
     lang:'zh-CN',
     themeConfig:{
+        logo: '/logo.png',
         repo: 'glimmeringlight/NIS3368_JobRecruitment',
         lastUpdated: 'Last Updated',
         docsBranch: 'docs',
@@ -13,21 +14,26 @@ module.exports = {
         nav: [
             {text: '主页', link: '/'},
             {text: '使用项目', link: '/run/'},
-            // {text: '本地开发', link: '/develop/'},
+            {text: '开发指南', link: '/develop/'},
             {text: '关于我们', link:'/about/'}
         ],
 
 
         sidebar: {
             '/run/': [
-              '',     /* /foo/ */
+                '',
             ],
       
             '/about/': [
-              '',      /* /bar/ */
-              'warranties', /* /bar/three.html */
+                '',
+                'warranties',
             ],
-          }
+
+            '/develop/': [
+                '',
+                'bugs',
+            ],
+        }
 
     },
     plugins: [
