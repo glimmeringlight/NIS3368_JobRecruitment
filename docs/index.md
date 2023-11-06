@@ -12,5 +12,5 @@ features:
   details: 私信、小型论坛、发布职位、求职多系统继承，功能丰富。
 - title: 简单上手
   details: 功能简单，小范围的求职系统的优先选择之一。
-footer: MIT Licensed | Copyright © 2023-present JobRecruitment Develop Team
+footer: Apache-2.0 Licensed | Copyright © 2023-present JobRecruitment Develop Team
 ---
