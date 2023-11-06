@@ -14,4 +14,4 @@
 
 ## 开源许可
 
-本项目使用[MIT License](./LICENSE)授权。
+本项目依据[Apache-2.0 license](./LICENSE)进行授权。
